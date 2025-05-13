@@ -1,2 +1,1 @@
-This is a row matrix
-This is a column matrix
+This is a zero matrix
